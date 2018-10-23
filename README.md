@@ -3,5 +3,5 @@
 
 ## 入门
 
-## 基于DL实现去水印
+## 基于DL实现图片去水印
 https://github.com/mickeyhaha/cnn-watermark-removal
